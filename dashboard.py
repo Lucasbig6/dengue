@@ -48,13 +48,13 @@ def render_kpi_card(label, value, color_class, icon):
 def load_mappings():
     """Carrega mapeamentos de municípios, regiões e descrições dos códigos SINAM."""
     municipios = {}
-    if os.path.exists("src/municipios_pi.json"):
-        with open("src/municipios_pi.json", "r") as f:
+    if os.path.exists("municipios_pi.json"):
+        with open("municipios_pi.json", "r") as f:
             municipios = json.load(f)
             
     # Mapeamento regional (Macro e Territórios de Desenvolvimento)
     regional = {}
-    if os.path.exists("src/regionalizacao_pi.json"):
+    if os.path.exists("regionalizacao_pi.json"):
         with open("src/regionalizacao_pi.json", "r") as f:
             regional = json.load(f)
     
