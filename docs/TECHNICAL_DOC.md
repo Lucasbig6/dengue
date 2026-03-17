@@ -7,11 +7,11 @@ O dashboard é uma aplicação analítica desenvolvida em Python utilizando **St
 
 ## 🏗️ Estrutura do Projeto
 
-- `src/dashboard.py`: Script principal contendo a lógica de processamento de dados e interface Streamlit.
-- `src/style.css`: Estilização personalizada seguindo a identidade visual do Governo do Piauí.
-- `src/regionalizacao_pi.json`: Mapeamento de municípios para Macrorregiões e Territórios de Desenvolvimento.
-- `src/municipios_pi.json`: Dicionário de códigos IBGE para nomes de municípios.
-- `src/assets/logo_sesapi.png`: Logotipo oficial utilizado na barra lateral.
+- `dashboard.py`: Script principal contendo a lógica de processamento de dados e interface Streamlit.
+- `style.css`: Estilização personalizada seguindo a identidade visual do Governo do Piauí.
+- `regionalizacao_pi.json`: Mapeamento de municípios para Macrorregiões e Territórios de Desenvolvimento.
+- `municipios_pi.json`: Dicionário de códigos IBGE para nomes de municípios.
+- `assets/logo_sesapi.png`: Logotipo oficial utilizado na barra lateral.
 
 ## 🛠️ Componentes Principais
 

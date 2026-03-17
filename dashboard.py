@@ -29,7 +29,7 @@ def local_css(file_name):
         with open(file_name) as f:
             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
-local_css("src/style.css")
+local_css("style.css")
 
 def render_kpi_card(label, value, color_class, icon):
     """Renderiza um card de KPI customizado com HTML/CSS."""
@@ -55,7 +55,7 @@ def load_mappings():
     # Mapeamento regional (Macro e Territórios de Desenvolvimento)
     regional = {}
     if os.path.exists("regionalizacao_pi.json"):
-        with open("src/regionalizacao_pi.json", "r") as f:
+        with open("regionalizacao_pi.json", "r") as f:
             regional = json.load(f)
     
     # Sexo: De código para descrição amigável
@@ -129,8 +129,8 @@ df_full = load_data()
 # ==============================================================================
 with st.sidebar:
     # Logotipo Institucional
-    st.image("src/sesapi_logo.png", width=250)
-    
+    st.image("sesapi_logo.png", width=250)
+
     st.markdown("---")
     st.markdown("### 🔍 Filtros de Análise")
     

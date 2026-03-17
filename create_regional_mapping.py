@@ -114,7 +114,7 @@ for item in ibge_data:
     }
 
 # Save the final mapping
-with open("src/regionalizacao_pi.json", "w", encoding="utf-8") as f:
+with open("regionalizacao_pi.json", "w", encoding="utf-8") as f:
     json.dump(final_mapping, f, indent=4, ensure_ascii=False)
 
 print(f"Mapped {len(final_mapping)} municipalities.")

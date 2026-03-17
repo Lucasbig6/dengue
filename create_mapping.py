@@ -8,5 +8,5 @@ municipios_raw = [
 # Map 6-digit code to Name
 mapping = {str(item["id"])[:6]: item["nome"] for item in municipios_raw}
 
-with open("src/municipios_pi.json", "w") as f:
+with open("municipios_pi.json", "w") as f:
     json.dump(mapping, f, indent=4)
