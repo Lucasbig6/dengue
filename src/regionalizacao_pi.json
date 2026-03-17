@@ -1,0 +1,1122 @@
+{
+    "220005": {
+        "nome": "Acauã",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220010": {
+        "nome": "Agricolândia",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220020": {
+        "nome": "Água Branca",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220025": {
+        "nome": "Alagoinha do Piauí",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220027": {
+        "nome": "Alegrete do Piauí",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220030": {
+        "nome": "Alto Longá",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220040": {
+        "nome": "Altos",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220045": {
+        "nome": "Alvorada do Gurguéia",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220050": {
+        "nome": "Amarante",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220060": {
+        "nome": "Angical do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220070": {
+        "nome": "Anísio de Abreu",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220080": {
+        "nome": "Antônio Almeida",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220090": {
+        "nome": "Aroazes",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220095": {
+        "nome": "Aroeiras do Itaim",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220100": {
+        "nome": "Arraial",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220105": {
+        "nome": "Assunção do Piauí",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220110": {
+        "nome": "Avelino Lopes",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220115": {
+        "nome": "Baixa Grande do Ribeiro",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220117": {
+        "nome": "Barra D'Alcântara",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220120": {
+        "nome": "Barras",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220130": {
+        "nome": "Barreiras do Piauí",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220140": {
+        "nome": "Barro Duro",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220150": {
+        "nome": "Batalha",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220155": {
+        "nome": "Bela Vista do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220157": {
+        "nome": "Belém do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220160": {
+        "nome": "Beneditinos",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220170": {
+        "nome": "Bertolínia",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220173": {
+        "nome": "Betânia do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220177": {
+        "nome": "Boa Hora",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220180": {
+        "nome": "Bocaina",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220190": {
+        "nome": "Bom Jesus",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220191": {
+        "nome": "Bom Princípio do Piauí",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220192": {
+        "nome": "Bonfim do Piauí",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220194": {
+        "nome": "Boqueirão do Piauí",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220196": {
+        "nome": "Brasileira",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220198": {
+        "nome": "Brejo do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220200": {
+        "nome": "Buriti dos Lopes",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220202": {
+        "nome": "Buriti dos Montes",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220205": {
+        "nome": "Cabeceiras do Piauí",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220207": {
+        "nome": "Cajazeiras do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220208": {
+        "nome": "Cajueiro da Praia",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220209": {
+        "nome": "Caldeirão Grande do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220210": {
+        "nome": "Campinas do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220211": {
+        "nome": "Campo Alegre do Fidalgo",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220213": {
+        "nome": "Campo Grande do Piauí",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220217": {
+        "nome": "Campo Largo do Piauí",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220220": {
+        "nome": "Campo Maior",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220225": {
+        "nome": "Canavieira",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220230": {
+        "nome": "Canto do Buriti",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220240": {
+        "nome": "Capitão de Campos",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220245": {
+        "nome": "Capitão Gervásio Oliveira",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220250": {
+        "nome": "Caracol",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220253": {
+        "nome": "Caraúbas do Piauí",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220255": {
+        "nome": "Caridade do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220260": {
+        "nome": "Castelo do Piauí",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220265": {
+        "nome": "Caxingó",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220270": {
+        "nome": "Cocal",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220271": {
+        "nome": "Cocal de Telha",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220272": {
+        "nome": "Cocal dos Alves",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220273": {
+        "nome": "Coivaras",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220275": {
+        "nome": "Colônia do Gurguéia",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220277": {
+        "nome": "Colônia do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220280": {
+        "nome": "Conceição do Canindé",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220285": {
+        "nome": "Coronel José Dias",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220290": {
+        "nome": "Corrente",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220300": {
+        "nome": "Cristalândia do Piauí",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220310": {
+        "nome": "Cristino Castro",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220320": {
+        "nome": "Curimatá",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220323": {
+        "nome": "Currais",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220325": {
+        "nome": "Curralinhos",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220327": {
+        "nome": "Curral Novo do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220330": {
+        "nome": "Demerval Lobão",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220335": {
+        "nome": "Dirceu Arcoverde",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220340": {
+        "nome": "Dom Expedito Lopes",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220342": {
+        "nome": "Domingos Mourão",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220345": {
+        "nome": "Dom Inocêncio",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220350": {
+        "nome": "Elesbão Veloso",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220360": {
+        "nome": "Eliseu Martins",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220370": {
+        "nome": "Esperantina",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220375": {
+        "nome": "Fartura do Piauí",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220380": {
+        "nome": "Flores do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220385": {
+        "nome": "Floresta do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220390": {
+        "nome": "Floriano",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220400": {
+        "nome": "Francinópolis",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220410": {
+        "nome": "Francisco Ayres",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220415": {
+        "nome": "Francisco Macedo",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220420": {
+        "nome": "Francisco Santos",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220430": {
+        "nome": "Fronteiras",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220435": {
+        "nome": "Geminiano",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220440": {
+        "nome": "Gilbués",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220450": {
+        "nome": "Guadalupe",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220455": {
+        "nome": "Guaribas",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220460": {
+        "nome": "Hugo Napoleão",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220465": {
+        "nome": "Ilha Grande",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220470": {
+        "nome": "Inhuma",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220480": {
+        "nome": "Ipiranga do Piauí",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220490": {
+        "nome": "Isaías Coelho",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220500": {
+        "nome": "Itainópolis",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220510": {
+        "nome": "Itaueira",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220515": {
+        "nome": "Jacobina do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220520": {
+        "nome": "Jaicós",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220525": {
+        "nome": "Jardim do Mulato",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220527": {
+        "nome": "Jatobá do Piauí",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220530": {
+        "nome": "Jerumenha",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220535": {
+        "nome": "João Costa",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220540": {
+        "nome": "Joaquim Pires",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220545": {
+        "nome": "Joca Marques",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220550": {
+        "nome": "José de Freitas",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220551": {
+        "nome": "Juazeiro do Piauí",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220552": {
+        "nome": "Júlio Borges",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220553": {
+        "nome": "Jurema",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220554": {
+        "nome": "Lagoinha do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220555": {
+        "nome": "Lagoa Alegre",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220556": {
+        "nome": "Lagoa do Barro do Piauí",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220557": {
+        "nome": "Lagoa de São Francisco",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220558": {
+        "nome": "Lagoa do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220559": {
+        "nome": "Lagoa do Sítio",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220560": {
+        "nome": "Landri Sales",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220570": {
+        "nome": "Luís Correia",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220580": {
+        "nome": "Luzilândia",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220585": {
+        "nome": "Madeiro",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220590": {
+        "nome": "Manoel Emídio",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220595": {
+        "nome": "Marcolândia",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220600": {
+        "nome": "Marcos Parente",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220605": {
+        "nome": "Massapê do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220610": {
+        "nome": "Matias Olímpio",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220620": {
+        "nome": "Miguel Alves",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220630": {
+        "nome": "Miguel Leão",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220635": {
+        "nome": "Milton Brandão",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220640": {
+        "nome": "Monsenhor Gil",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220650": {
+        "nome": "Monsenhor Hipólito",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220660": {
+        "nome": "Monte Alegre do Piauí",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220665": {
+        "nome": "Morro Cabeça no Tempo",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220667": {
+        "nome": "Morro do Chapéu do Piauí",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220669": {
+        "nome": "Murici dos Portelas",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220670": {
+        "nome": "Nazaré do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220672": {
+        "nome": "Nazária",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220675": {
+        "nome": "Nossa Senhora de Nazaré",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220680": {
+        "nome": "Nossa Senhora dos Remédios",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220690": {
+        "nome": "Novo Oriente do Piauí",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220695": {
+        "nome": "Novo Santo Antônio",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220700": {
+        "nome": "Oeiras",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220710": {
+        "nome": "Olho D'Água do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220720": {
+        "nome": "Padre Marcos",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220730": {
+        "nome": "Paes Landim",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220735": {
+        "nome": "Pajeú do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220740": {
+        "nome": "Palmeira do Piauí",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220750": {
+        "nome": "Palmeirais",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220755": {
+        "nome": "Paquetá",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220760": {
+        "nome": "Parnaguá",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220770": {
+        "nome": "Parnaíba",
+        "territorio": "Planície Litorânea",
+        "macrorregiao": "Litoral"
+    },
+    "220775": {
+        "nome": "Passagem Franca do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220777": {
+        "nome": "Patos do Piauí",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220779": {
+        "nome": "Pau D'Arco do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220780": {
+        "nome": "Paulistana",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220785": {
+        "nome": "Pavussu",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220790": {
+        "nome": "Pedro II",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220793": {
+        "nome": "Pedro Laurentino",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220795": {
+        "nome": "Nova Santa Rita",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220800": {
+        "nome": "Picos",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220810": {
+        "nome": "Pimenteiras",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220820": {
+        "nome": "Pio IX",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220830": {
+        "nome": "Piracuruca",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220840": {
+        "nome": "Piripiri",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220850": {
+        "nome": "Porto",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220855": {
+        "nome": "Porto Alegre do Piauí",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220860": {
+        "nome": "Prata do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220865": {
+        "nome": "Queimada Nova",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "220870": {
+        "nome": "Redenção do Gurguéia",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220880": {
+        "nome": "Regeneração",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220885": {
+        "nome": "Riacho Frio",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220887": {
+        "nome": "Ribeira do Piauí",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220890": {
+        "nome": "Ribeiro Gonçalves",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220900": {
+        "nome": "Rio Grande do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220910": {
+        "nome": "Santa Cruz do Piauí",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220915": {
+        "nome": "Santa Cruz dos Milagres",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "220920": {
+        "nome": "Santa Filomena",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "220930": {
+        "nome": "Santa Luz",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220935": {
+        "nome": "Santana do Piauí",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "220937": {
+        "nome": "Santa Rosa do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220940": {
+        "nome": "Santo Antônio de Lisboa",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220945": {
+        "nome": "Santo Antônio dos Milagres",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220950": {
+        "nome": "Santo Inácio do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220955": {
+        "nome": "São Braz do Piauí",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "220960": {
+        "nome": "São Félix do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220965": {
+        "nome": "São Francisco de Assis do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "220970": {
+        "nome": "São Francisco do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220975": {
+        "nome": "São Gonçalo do Gurguéia",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "220980": {
+        "nome": "São Gonçalo do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220985": {
+        "nome": "São João da Canabrava",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "220987": {
+        "nome": "São João da Fronteira",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "220990": {
+        "nome": "São João da Serra",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "220995": {
+        "nome": "São João da Varjota",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "220997": {
+        "nome": "São João do Arraial",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "221000": {
+        "nome": "São João do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "221005": {
+        "nome": "São José do Divino",
+        "territorio": "Cocais",
+        "macrorregiao": "Litoral"
+    },
+    "221010": {
+        "nome": "São José do Peixe",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "221020": {
+        "nome": "São José do Piauí",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "221030": {
+        "nome": "São Julião",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "221035": {
+        "nome": "São Lourenço do Piauí",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "221037": {
+        "nome": "São Luis do Piauí",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "221038": {
+        "nome": "São Miguel da Baixa Grande",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "221039": {
+        "nome": "São Miguel do Fidalgo",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "221040": {
+        "nome": "São Miguel do Tapuio",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "221050": {
+        "nome": "São Pedro do Piauí",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "221060": {
+        "nome": "São Raimundo Nonato",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "221062": {
+        "nome": "Sebastião Barros",
+        "territorio": "Chapada das Mangabeiras",
+        "macrorregiao": "Cerrados"
+    },
+    "221063": {
+        "nome": "Sebastião Leal",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "221065": {
+        "nome": "Sigefredo Pacheco",
+        "territorio": "Carnaubais",
+        "macrorregiao": "Meio-Norte"
+    },
+    "221070": {
+        "nome": "Simões",
+        "territorio": "Chapada do Vale do Rio Itaim",
+        "macrorregiao": "Semiárido"
+    },
+    "221080": {
+        "nome": "Simplício Mendes",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "221090": {
+        "nome": "Socorro do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "221093": {
+        "nome": "Sussuapara",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    },
+    "221095": {
+        "nome": "Tamboril do Piauí",
+        "territorio": "Vale dos Rios Piauí e Itaueiras",
+        "macrorregiao": "Semiárido"
+    },
+    "221097": {
+        "nome": "Tanque do Piauí",
+        "territorio": "Vale do Canindé",
+        "macrorregiao": "Semiárido"
+    },
+    "221100": {
+        "nome": "Teresina",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "221110": {
+        "nome": "União",
+        "territorio": "Entre Rios",
+        "macrorregiao": "Meio-Norte"
+    },
+    "221120": {
+        "nome": "Uruçuí",
+        "territorio": "Tabuleiros do Alto Parnaíba",
+        "macrorregiao": "Cerrados"
+    },
+    "221130": {
+        "nome": "Valença do Piauí",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "221135": {
+        "nome": "Várzea Branca",
+        "territorio": "Serra da Capivara",
+        "macrorregiao": "Semiárido"
+    },
+    "221140": {
+        "nome": "Várzea Grande",
+        "territorio": "Vale do Sambito",
+        "macrorregiao": "Semiárido"
+    },
+    "221150": {
+        "nome": "Vera Mendes",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "221160": {
+        "nome": "Vila Nova do Piauí",
+        "territorio": "Outros",
+        "macrorregiao": "Outros"
+    },
+    "221170": {
+        "nome": "Wall Ferraz",
+        "territorio": "Vale do Rio Guaribas",
+        "macrorregiao": "Semiárido"
+    }
+}

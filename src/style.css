@@ -1,0 +1,200 @@
+/* Piauí Government Branding for Arboviroses Dashboard */
+
+:root {
+    --pi-blue: #0056b3;
+    --pi-yellow: #ffcc00;
+    --pi-green: #28a745;
+    --pi-red: #dc3545;
+    --pi-white: #ffffff;
+    --pi-gray-light: #f8f9fa;
+    --pi-text-dark: #212529;
+}
+
+/* Base Body Style */
+.stApp {
+    background-color: var(--pi-white);
+    font-family: 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: var(--pi-text-dark);
+}
+
+/* Sidebar Styling */
+[data-testid="stSidebar"] {
+    background-color: var(--pi-blue);
+    color: white;
+}
+
+[data-testid="stSidebar"] img {
+    filter: brightness(0) invert(1) !important;
+}
+
+[data-testid="stSidebar"] .stMarkdown h1, 
+[data-testid="stSidebar"] .stMarkdown h2, 
+[data-testid="stSidebar"] .stMarkdown h3,
+[data-testid="stSidebar"] p {
+    color: white !important;
+}
+
+/* Metrics Styling */
+[data-testid="stMetricValue"] {
+    font-size: 2.2rem !important;
+    font-weight: 700 !important;
+    color: var(--pi-blue) !important;
+}
+
+[data-testid="stMetricLabel"] {
+    color: var(--pi-text-dark) !important;
+}
+
+
+/* Buttons and Interactivity */
+.stButton>button {
+    background-color: var(--pi-blue);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #004494;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* KPI Cards Effect */
+.stMetric {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+/* Container Alignment Logic: Force all containers in a row to have the same height */
+[data-testid="stHorizontalBlock"] {
+    align-items: stretch !important;
+}
+
+[data-testid="stHorizontalBlock"] [data-testid="column"] > div {
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+[data-testid="stVerticalBlockBorderWrapper"] {
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    border-top: 4px solid var(--pi-blue) !important;
+    background-color: white !important;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02) !important;
+    transition: all 0.3s ease !important;
+    margin-bottom: 1.5rem !important;
+    flex-grow: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 480px !important;
+}
+
+/* Specific content behavior inside aligned containers */
+[data-testid="stVerticalBlockBorderWrapper"] > div:nth-child(2) {
+    flex-grow: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+/* Hide scrollbar for a cleaner look while keeping functionality */
+[data-testid="stVerticalBlockBorderWrapper"]::-webkit-scrollbar {
+    width: 4px;
+}
+[data-testid="stVerticalBlockBorderWrapper"]::-webkit-scrollbar-thumb {
+    background: #e2e8f0;
+    border-radius: 10px;
+}
+
+[data-testid="stVerticalBlockBorderWrapper"]:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.05) !important;
+    border-color: #cbd5e1 !important;
+}
+
+/* Specific colors for the sequence of KPI cards and large containers */
+[data-testid="stHorizontalBlock"] > div:nth-child(1) [data-testid="stVerticalBlockBorderWrapper"] { border-top-color: var(--pi-blue) !important; }
+[data-testid="stHorizontalBlock"] > div:nth-child(2) [data-testid="stVerticalBlockBorderWrapper"] { border-top-color: var(--pi-yellow) !important; }
+[data-testid="stHorizontalBlock"] > div:nth-child(3) [data-testid="stVerticalBlockBorderWrapper"] { border-top-color: var(--pi-green) !important; }
+[data-testid="stHorizontalBlock"] > div:nth-child(4) [data-testid="stVerticalBlockBorderWrapper"] { border-top-color: var(--pi-red) !important; }
+
+/* Remove default Streamlit borders if possible */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Custom Premium KPI Cards */
+.kpi-card {
+    background: white;
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 120px;
+    margin-bottom: 1rem;
+}
+
+.kpi-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border-color: #cbd5e1;
+}
+
+/* Color Accent Bars */
+.kpi-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 6px;
+    height: 100%;
+    transition: width 0.3s ease;
+}
+
+.kpi-card:hover::before {
+    width: 10px;
+}
+
+.kpi-blue::before { background-color: var(--pi-blue); }
+.kpi-yellow::before { background-color: var(--pi-yellow); }
+.kpi-green::before { background-color: var(--pi-green); }
+.kpi-red::before { background-color: var(--pi-red); }
+
+.kpi-label {
+    color: #64748b;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.kpi-value {
+    color: var(--pi-text-dark);
+    font-size: 2.4rem;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.kpi-icon {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    font-size: 2.5rem;
+    transition: all 0.4s ease;
+}
+
+.kpi-card:hover .kpi-icon {
+    transform: scale(1.2) rotate(-10deg);
+}
